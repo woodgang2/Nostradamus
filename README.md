@@ -4,4 +4,4 @@ The core issue with the official rankings is that they are highly subjective - t
 
 Public models for quantifying team strength which delve deeper than the official rankings do exist, but they by and large treat teams as monolithic entities, ignoring the effects of player absences, starting pitchers, and reliever fatigue. The ELO framework was used for this project because player modifications can be easily baked in, but custom calculations were necessary to more accurately represent the information gain in individual collegiate games. The project outperformed the Glicko-2 system, random forest approaches, and some simple RL implementations trained over the post-2000 dataset.
 
-TODO: the name of the repo might be a bit of a misnomer, as I haven't gotten around to scraping bettings odds and performing practical tests yet. 
+TODO: the name of the repo might be a bit of a misnomer, as I haven't gotten around to scraping betting odds and performing practical tests yet. 
