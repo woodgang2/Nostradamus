@@ -1,4 +1,4 @@
-Ever wondered which collegiate baseball teams are the strongest? It's a simple question, right? I mean, if you look up "top college baseball teams", you get a handy list of 25 teams considered to be the best teams.
+Ever wondered which collegiate baseball teams are the strongest? It's a simple question, right? I mean, if you look up "top college baseball teams", you get a handy list of the [top 25 in the country](https://www.ncaa.com/rankings/baseball/d1/d1baseballcom-top-25).
 
 The core issue with the official rankings is that they are highly subjective - the best teams rarely play each other over the course of the Spring season, instead spending most of their time running up scores against teams who never stood a chance in the first place. Even when they do play, baseball is notoriously susceptible to sampling noise. The selection committee takes factors like [RPI](https://en.wikipedia.org/wiki/Rating_percentage_index) into account, but RPI has no real statistical underpinning (those familiar with baseball will know that sports people love these handwavy stats *cough* OPS).
 
